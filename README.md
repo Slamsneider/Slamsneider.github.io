@@ -1,4 +1,4 @@
 # Slamsneider.github.io
-Hugoes?
+https://github.com/Slamsneider
 ## Welcome
 Let's hope i put some more stuff on this page...

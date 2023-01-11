@@ -3,5 +3,4 @@
 ## Welcome
 Let's hope i put some more stuff on this page...
 
-| [ HOME ](https://Slamsneider.github.io) |
-| [ PROFILE ](https://github.com/Slamsneider) |
+| [ HOME ](https://Slamsneider.github.io) | [ PROFILE ](https://github.com/Slamsneider) |

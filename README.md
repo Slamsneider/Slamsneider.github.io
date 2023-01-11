@@ -3,6 +3,6 @@
 ## Welcome
 Let's hope i put some more stuff on this page...
 
-| [ REFRESH ](https://Slamsneider.github.io) |
+| [ HOME ](https://Slamsneider.github.io) |
 
-| [ OTHER ](https://Slamsneider.github.io) |
+| [ PROFILE ](https://github.com/Slamsneider) |

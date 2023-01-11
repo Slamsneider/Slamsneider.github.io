@@ -4,4 +4,5 @@
 Let's hope i put some more stuff on this page...
 
 | [ REFRESH ](https://Slamsneider.github.io) |
-| [ REFRESH ](https://Slamsneider.github.io) |
+
+| [ OTHER ](https://Slamsneider.github.io) |
